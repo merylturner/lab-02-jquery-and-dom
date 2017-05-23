@@ -15,13 +15,12 @@ When you are finished with lab, follow these steps to submit your work. Create o
 ---
 
 ## Learning Objectives
-* Understand why the jQuery library is useful and how to include it (local vs CDN).
-* What is a dependency?
+* Include the jQuery library using a CDN or including it locally.
 * Perform DOM manipulations using `append`, `remove`, `clone`, `data`, `html`, `text`.
 * Traverse the DOM tree, with `parents`, `children`, `find`.
 * Understand the use of event delegation for dynamic element selection.
 * Differentiate between certain methods & the process of chaining.
-* Understand proper `<script>` loading order in HTML.
+* Include JavaScript files accounting for dependencies by loading `<script>` tags in order.
 
 ---
 
