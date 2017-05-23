@@ -1,6 +1,5 @@
-![CF](https://i.imgur.com/7v5ASc8.png)  Lab 02: jQuery and the DOM
+Lab 02: jQuery and the DOM
 =======
-[Code of Conduct](https://github.com/codefellows/code-of-conduct)
 
 ## Submission Instructions
 When you are finished with lab, follow these steps to submit your work. Create one Pull Request (aka: "PR") from your Forked repo to the CF repo with your changes, and you'll each submit that same PR link in Canvas.
