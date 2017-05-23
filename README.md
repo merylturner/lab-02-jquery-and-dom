@@ -33,7 +33,7 @@ When you are finished with lab, follow these steps to submit your work. Create o
 1. Add any necessary script tags to your HTML.
 2. Complete that article constructor by assigning all of the properties of an object argument to properties of `this`.
 3. Complete the `toHtml()` method, which will ultimately be used to render each article instance to the DOM.
-
+4. Add responsive styles for the hamburger menu and nav bar.
 ---
 
 ## Rubric  
