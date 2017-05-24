@@ -1,6 +1,12 @@
 Lab 02: jQuery and the DOM
 =======
 
+Welcome to your first lab assignment for Code 301!!
+These Kilovolt Blog labs will be done in pairs. You'll be forking, cloning, and making lots of pull requests for this class. Review the [Git flow](https://github.com/cfpdx-301d-spring-2017/lectures/blob/master/GIT_FLOW.md) as often as you need to!
+
+*Please take the time to read carefully through each of the READMEs for lab assignments as they have detailed information regarding your assignment, such as: how to get started, resources, goals, grading rubrics, and how to submit your work.*
+
+
 ## Submission Instructions
 When you are finished with lab, follow these steps to submit your work. Create one Pull Request (aka: "PR") from your Forked repo to the CF repo with your changes, and you'll each submit that same PR link in Canvas.
 
