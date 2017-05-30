@@ -1,9 +1,9 @@
 #### Single-line Summary
-**Today, _ and _ paired together. It took about _**
+**Today, Meryl and Anwar paired together. It took about _**
 
 #### Reflect and summarize on your process for each `TODO` item :  
-  1. First, we started on ...
-  2. Next, we ...
+  1. First, we started on the index.html file and added our script tags.
+  2. Next, we added the styling to our navigation bar and used CSS media queries to distinguish between desktop and mobile. 
   3.
 
 #### Checklist (before submitting, fill in each set of square brackets with an 'x')
